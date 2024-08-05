@@ -4,3 +4,4 @@ metadata:
   name: frontend-config
 data:
   APP_ENV: "production"
+
